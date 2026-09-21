@@ -33,6 +33,7 @@ function isLan(host) {
   return belongsToSubnet(host, LAN);
 }
 
+// 换成自己的代理服务器
 var proxy = "SOCKS5 127.0.0.1:1080";
 var direct = "DIRECT";
 
