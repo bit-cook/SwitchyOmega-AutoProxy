@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: JOWQwhDfPSKvkCHAE3XHOg
+! Checksum: Bt5F9Mz64sVCNP/emSOH/g
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 30 Jul 2026 07:56:33 +0000
+! Last Modified: Mon, 21 Sep 2026 01:30:46 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -358,6 +358,7 @@ itunes.apple.com/us
 ||xn--vuqv2cf7wzyig79c.com
 !-----------------DNS Poisoning-----------------
 !---Amazon---
+||s3.dualstack.us-west-2.amazonaws.com
 ||music.amazon.com
 ||cdn-images.mailchimp.com
 ||abebooks.com
@@ -478,7 +479,6 @@ itunes.apple.com/us
 ||tubepornclassic.com
 ||uku.im
 ||unseen.is
-||cn.uptodown.com
 ||uraban.me
 ||vrsmash.com
 ||vultryhw.com
@@ -637,37 +637,22 @@ itunes.apple.com/us
 ||futuhkapp.com
 ||fututrade.com
 ||fututrustee.com
-||cdn.futustatic.com
 ||api.moomoobull.com
 ||moomooequity.com
 ||moomootrustee.com
 ||9oju31.launches.appsflyersdk.com
 ||sgqt0j.launches.appsflyersdk.com
 ||shortconn.im.qcloud.com
-||api.lbkrs.com
-||api-gl.lbkrs.com
 ||longbridge.cloud
 ||longbridge.sg
 ||tigerbrokers.com
 ||tigerbrokers.net
 ||tigerbrokers.nz
 ||quote.longbridge.global
-||trade.longportapp.com
-||openapi.longbridge.com
-||openapi-quote.longbridge.com
-||openapi-trade.longbridge.com
 ||openapi.longbridge.cn
 ||openapi-quote.longbridge.cn
 ||openapi-trade.longbridge.cn
 ||cg.play-analytics.com
-||qtcard.futunn.com
-||qtcardfthk.futufin.com
-||openapi.futunn.com
-||api.futunn.com
-||api5.futunn.com
-||trade.futunn.com
-||support.futunn.com
-||download.futunn.com
 !----------------Frauds & Scams-----------------
 !!---Content Farm(fake 500 error)---
 ||read01.com
@@ -748,8 +733,7 @@ www.aolnews.com
 ||whatsapp.com
 ||whatsapp.net
 !!---Fandom---
-||auntology.fandom.com
-||hongkong.fandom.com
+||fandom.com
 !!---FTChinese---
 ||ftchinese.com
 !!---Google---
@@ -1173,6 +1157,8 @@ www.aolnews.com
 ||x.com
 
 !!---Taiwan---
+||taiwanembassy.org
+||roc-taiwan.org
 ||twgov.tw
 ||gov.tw
 @@||www.gov.tw
@@ -1244,6 +1230,8 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||123av.me
+||123av.com
 ||18comic.vip
 ||18mh.net
 ||24hbook.com
@@ -1317,6 +1305,10 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||livingatlas.arcgis.com
+||basemaps.arcgis.com
+||experience.arcgis.com
+||aihub.top
 ||accountboy.com
 ||acg.mn
 ||asiasociety.org
@@ -1491,6 +1483,7 @@ iipdigital.usembassy.gov
 !--boxun.azurewebsites.net doesn't exist.
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||briarproject.org
 ||bilinovel.com
 ||boomplay.com
 ||bleepingcomputer.com
@@ -1657,13 +1650,16 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||ctee.com.tw
+||chatgpt.site
+||cht.com.tw
+||cerebras.ai
 ||circle19.org
 ||clashyun.com
 ||chonglangtv.org
 ||ctinsider.com
 ||cia.gov
 ||claude.com
-||www.clashverge.dev
 ||clementine-player.org
 ||backend-v2.crixet.com
 ||cchostvps.xyz
@@ -1896,6 +1892,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||divdyn.com
 ||data18.com
 ||dt18.com
 ||dns.sb
@@ -2254,6 +2251,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||getmonero.org
 ||gate.com
 ||guangming.com.my
 ||g.ai
@@ -2393,6 +2391,8 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hentai.tv
+||hkej.com
 ||hkong.hk
 ||hive.blog
 ||v2.hysteria.network
@@ -2463,7 +2463,6 @@ iipdigital.usembassy.gov
 ||hkdc.us
 ||hket.com
 ||hkfaa.com
-|https://m.hkgalden.com
 ||hkgpao.com
 ||hklts.org.hk
 ||hkmap.live
@@ -2751,6 +2750,7 @@ iipdigital.usembassy.gov
 ||kzaobao.com
 ||kzeng.info
 !--------------------LL-------------------------
+||linux.sb
 ||level-plus.net
 ||libgen.is
 ||lemonde.fr
@@ -2841,6 +2841,9 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||historylines.net
+||kiwix.org
+||mceindex.com
 ||mhwindow.org
 ||mas.to
 ||mjj.today
@@ -2979,7 +2982,6 @@ iipdigital.usembassy.gov
 |http://motherless.com
 ||movements.org
 ||moviefap.com
-||mozilla.ai
 ||www.moztw.org
 ||mpettis.com
 ||mpfinance.com
@@ -3005,6 +3007,8 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||note.com
+||nthlink.com
 ||neodb.social 
 ||nfscofficial.com
 ||nfsc.press
@@ -3077,6 +3081,7 @@ iipdigital.usembassy.gov
 ||co.ng.mil
 ||nga.mil
 ||nhentai.net
+||nicoseiga.jp
 ||nicovideo.jp
 ||ninjaproxy.ninja
 ||niusnews.com
@@ -3114,6 +3119,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||oldmapsonline.org
 ||umap.openstreetmap.fr
 ||overdrive.com
 ||openart.ai
@@ -3201,7 +3207,6 @@ iipdigital.usembassy.gov
 ||pancakeswap.finance
 ||img.picgo.net
 ||pornmate.com
-||puredns.org
 ||polymarket.com
 ||pandafan.pub
 ||proxz.com
@@ -3376,6 +3381,7 @@ iipdigital.usembassy.gov
 ||pximg.net
 ||python.com.tw
 !--------------------QQ-------------------------
+||quakemachinex.com
 |http://qmp4.com
 ||qianmo.tw
 ||qbittorrent.org
@@ -3394,12 +3400,13 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||roushuwo.com
+||esim.redteago.com
 ||restofworld.org
 ||rts.ch
 ||rawstory.com
 ||recordedfuture.com
 ||roblox.com
-||radiojar.com
 ||radio.co
 ||rustdesk.com
 ||rentry.co
@@ -3491,6 +3498,9 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||supjav.com
+||api.shuaiapi.com
+||sb.sb
 ||sysub.com
 ||sider.ai
 ||sinchew.com.my
@@ -3507,7 +3517,6 @@ iipdigital.usembassy.gov
 ||swapspace.co
 ||storry.tv
 ||standard.co.uk
-||sagernet.org
 ||simplex.chat
 ||soundon.fm
 ||ssrtool.com
@@ -3732,6 +3741,7 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||taiav.com
 ||tryai.dev
 ||theintercept.com
 ||trtworld.com
@@ -4184,6 +4194,9 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||wtfpass.com
+||write.as
+||windy.com
 ||washingtontimes.com
 ||worldjournal.com
 ||wispbyte.com
@@ -4323,6 +4336,7 @@ iipdigital.usembassy.gov
 ||wuw.red
 ||wwitv.com
 !--------------------XX-------------------------
+||x86.fr
 ||xuan.com.my
 ||xdaforums.com
 ||xcancel.com
@@ -4476,7 +4490,6 @@ iipdigital.usembassy.gov
 !#############Supplemental List End#############
 !################Whitelist Start################
 @@||firebase-settings.crashlytics.com
-@@||cn.investing.com
 @@||www.typepad.com
 @@||static.typepad.com
 @@||ci.android.com
